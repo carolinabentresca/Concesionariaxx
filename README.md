@@ -1,5 +1,5 @@
-### Proyecto Java Web / SpringMVC + Hibernate
-#### "Lista de Productos" (Simulador de Concesionaria)
+### Proyecto JAVA - SpringMVC + Hibernate
+#### Simulador de Concesionaria: "Lista de Productos"
 
 
 ![Menú - Internet Explorer 13_3_2022 19_42_57](https://user-images.githubusercontent.com/88462536/158082801-499710b2-e4ca-4c86-b1ce-2af667f6df4a.png)
